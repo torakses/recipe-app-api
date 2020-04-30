@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bFqyglQm9dMVN038m6rIcR3yVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="" />
+      <created>1588238444546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588238444546</updated>
+      <workItem from="1588238447624" duration="4302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588243558038">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588243558038" />
+    <state x="-1633" y="104" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1588243779862">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1633" y="104" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588243779862" />
+    <state x="-1518" y="207" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588243681777">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1518" y="207" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588243681777" />
+    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588244106922">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588244106922" />
+  </component>
+</project>
