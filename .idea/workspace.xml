@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -20,7 +27,48 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="recipe-app-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Unnamed" />
+      <item itemvalue="Python.Unnamed" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
-      <workItem from="1588238447624" duration="4302000" />
+      <workItem from="1588238447624" duration="12419000" />
     </task>
     <servers />
   </component>
@@ -40,6 +88,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588254172383">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588254172383" />
     <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588243558038">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
@@ -52,9 +104,13 @@
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1518" y="207" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588243681777" />
-    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588244106922">
+    <state x="-1422" y="192" key="DockerComposeFileDialog" timestamp="1588244525644">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
-    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588244106922" />
+    <state x="-1422" y="192" key="DockerComposeFileDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588244525644" />
+    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588254274740">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588254274740" />
   </component>
 </project>
