@@ -20,21 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/core/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/commands/wait_for_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tests/test_commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/tests/test_user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/tests/test_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,19 +51,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bFqyglQm9dMVN038m6rIcR3yVr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Unnamed">
+  <component name="RunManager" selected="Docker.Unnamed">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="recipe-app-api" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="9101000" />
+      <workItem from="1588578624528" duration="17295000" />
     </task>
     <servers />
   </component>
@@ -129,15 +137,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1576" y="-112" key="#Dockerfile" timestamp="1588579071101">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1576" y="-112" key="#Dockerfile/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579071101" />
-    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588579189213">
+    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588599224426">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
-    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579189213" />
+    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599224426" />
     <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588243558038">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
@@ -154,9 +165,10 @@
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1422" y="192" key="DockerComposeFileDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588244525644" />
-    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588579291862">
+    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588599327778">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
-    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579291862" />
+    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599327778" />
+    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.23.1680.1027@-2560.-390.2560.1440" timestamp="1588598459846" />
   </component>
 </project>
