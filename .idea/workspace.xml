@@ -20,17 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/tests/test_user_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/migrations/0002_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/tests/test_tags_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager" selected="Docker.Unnamed">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -119,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="17295000" />
+      <workItem from="1588578624528" duration="21162000" />
     </task>
     <servers />
   </component>
@@ -149,10 +152,10 @@
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599224426" />
-    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588243558038">
+    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588604542794">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
-    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588243558038" />
+    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588604542794" />
     <state x="-1633" y="104" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1588243779862">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
@@ -165,10 +168,21 @@
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1422" y="192" key="DockerComposeFileDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588244525644" />
-    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588599327778">
-      <screen x="-2560" y="-390" width="2560" height="1440" />
+    <state x="-944" y="19" key="RollbackChangesDialog" timestamp="1588606531098">
+      <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
+    <state x="-944" y="19" key="RollbackChangesDialog/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606531098" />
+    <state x="-996" y="-332" key="SettingsEditor" timestamp="1588606844562">
+      <screen x="-1440" y="-970" width="1440" height="2560" />
+    </state>
+    <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588606844562" />
+    <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606743412" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599327778" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.23.1680.1027@-2560.-390.2560.1440" timestamp="1588598459846" />
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup" timestamp="1588607280965">
+      <screen x="-1440" y="-970" width="1440" height="2560" />
+    </state>
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588607280965" />
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606568253" />
   </component>
 </project>
