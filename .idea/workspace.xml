@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="" />
+    <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +52,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Unnamed">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -81,17 +109,33 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
+      <workItem from="1588578624528" duration="2345000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588254172383">
+    <state x="-1576" y="-112" key="#Dockerfile" timestamp="1588579071101">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
-    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588254172383" />
+    <state x="-1576" y="-112" key="#Dockerfile/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579071101" />
+    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588579189213">
+      <screen x="-2560" y="-390" width="2560" height="1440" />
+    </state>
+    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579189213" />
     <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588243558038">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
@@ -108,9 +152,9 @@
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1422" y="192" key="DockerComposeFileDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588244525644" />
-    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588254274740">
+    <state x="-1771" y="-31" key="SettingsEditor" timestamp="1588579291862">
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
-    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588254274740" />
+    <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579291862" />
   </component>
 </project>
