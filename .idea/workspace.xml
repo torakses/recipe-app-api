@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/migrations/0004_recipe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.Unnamed">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -109,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="25285000" />
+      <workItem from="1588578624528" duration="26303000" />
     </task>
     <servers />
   </component>
@@ -160,10 +164,10 @@
       <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
     <state x="-944" y="19" key="RollbackChangesDialog/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606531098" />
-    <state x="-996" y="-332" key="SettingsEditor" timestamp="1588606844562">
+    <state x="-996" y="-332" key="SettingsEditor" timestamp="1588669107055">
       <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
-    <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588606844562" />
+    <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588669107055" />
     <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606743412" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599327778" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.23.1680.1027@-2560.-390.2560.1440" timestamp="1588598459846" />
