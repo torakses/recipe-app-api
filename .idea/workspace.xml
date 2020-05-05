@@ -21,13 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="36199000" />
+      <workItem from="1588578624528" duration="38100000" />
     </task>
     <servers />
   </component>
@@ -175,10 +171,10 @@
     <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606743412" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599327778" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.23.1680.1027@-2560.-390.2560.1440" timestamp="1588598459846" />
-    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup" timestamp="1588670871269">
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup" timestamp="1588702768314">
       <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
-    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588670871269" />
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588702768314" />
     <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606568253" />
   </component>
 </project>
