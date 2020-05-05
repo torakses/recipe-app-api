@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/core/tests/test_ingredients_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_ingredients_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Docker.Unnamed">
+  <component name="RunManager" selected="Python.Unnamed">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="recipe-app-api" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="24285000" />
+      <workItem from="1588578624528" duration="24761000" />
     </task>
     <servers />
   </component>
@@ -135,9 +137,10 @@
       <screen x="-2560" y="-390" width="2560" height="1440" />
     </state>
     <state x="-1576" y="-112" key="#Dockerfile/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588579071101" />
-    <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588599224426">
-      <screen x="-2560" y="-390" width="2560" height="1440" />
+    <state x="-1071" y="-291" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588666596353">
+      <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
+    <state x="-1071" y="-291" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588666596353" />
     <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599224426" />
     <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588604542794">
       <screen x="-2560" y="-390" width="2560" height="1440" />
