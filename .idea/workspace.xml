@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/core/migrations/0004_recipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="26303000" />
+      <workItem from="1588578624528" duration="28473000" />
     </task>
     <servers />
   </component>
@@ -144,9 +145,10 @@
     </state>
     <state x="-1071" y="-291" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588666596353" />
     <state x="-1816" y="-8" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599224426" />
-    <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588604542794">
-      <screen x="-2560" y="-390" width="2560" height="1440" />
+    <state x="-859" y="-30" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588669649330">
+      <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
+    <state x="-859" y="-30" key="#com.intellij.fileTypes.FileTypeChooser/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588669649330" />
     <state x="-1528" y="139" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588604542794" />
     <state x="-1633" y="104" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1588243779862">
       <screen x="-2560" y="-390" width="2560" height="1440" />
@@ -171,10 +173,10 @@
     <state x="-996" y="-332" key="SettingsEditor/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606743412" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.0.1680.1050@-2560.-390.2560.1440" timestamp="1588599327778" />
     <state x="-1771" y="-31" key="SettingsEditor/-2560.-390.2560.1440/0.23.1680.1027@-2560.-390.2560.1440" timestamp="1588598459846" />
-    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup" timestamp="1588607280965">
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup" timestamp="1588670871269">
       <screen x="-1440" y="-970" width="1440" height="2560" />
     </state>
-    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588607280965" />
+    <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.0.1680.1050@-1440.-970.1440.2560" timestamp="1588670871269" />
     <state x="-1055" y="-359" width="670" height="676" key="search.everywhere.popup/-1440.-970.1440.2560/0.23.1680.1027@-1440.-970.1440.2560" timestamp="1588606568253" />
   </component>
 </project>
