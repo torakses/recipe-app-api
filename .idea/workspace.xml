@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9d951811-57dc-480a-a4d6-12de42f8c0a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/tests/test_ingredients_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_ingredients_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588238444546</updated>
       <workItem from="1588238447624" duration="12419000" />
-      <workItem from="1588578624528" duration="30831000" />
+      <workItem from="1588578624528" duration="31849000" />
     </task>
     <servers />
   </component>
